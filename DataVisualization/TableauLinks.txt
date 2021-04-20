@@ -1,1 +1,2 @@
-
+Sample Bar Plot:
+https://public.tableau.com/profile/sergio3776#!/vizhome/Like_sns_barplot/Sheet1
