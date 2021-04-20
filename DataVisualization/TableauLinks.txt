@@ -1,2 +1,8 @@
-Sample Bar Plot:
+Practice Tableau Bar Plot:
+
 https://public.tableau.com/profile/sergio3776#!/vizhome/Like_sns_barplot/Sheet1
+
+Practice Python sns.barplot and sns.heatmap (import seaborn as sns):
+
+https://www.kaggle.com/shoyo001/exercise-bar-charts-and-heatmaps/edit
+
