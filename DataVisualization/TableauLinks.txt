@@ -1,4 +1,15 @@
-Practice Tableau Bar Plot:
+Scatterplot
+https://public.tableau.com/profile/sergio3776#!/vizhome/03042021Practice/Sheet1
 
+Barplot
 https://public.tableau.com/profile/sergio3776#!/vizhome/Like_sns_barplot/Sheet1
+
+Scatter and Box-and-Whisker
+https://public.tableau.com/profile/sergio3776#!/vizhome/ScatterPlot-Box-and-Whisker-ColorCoded/Dashboard1
+
+
+
+
+
+
 
